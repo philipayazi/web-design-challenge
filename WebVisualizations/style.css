@@ -1,0 +1,109 @@
+.col-md-12 {
+  background-color: white;
+}
+
+.col-md-10 {
+  background-color: rgb(192, 192, 192);
+  padding: 40px;
+}
+
+.col-md-8 {
+    background-color: rgb(192, 192, 192);
+    padding: 40px;
+  }
+
+  .col-md-7 {
+    background-color: rgb(192, 192, 192);
+    padding: 40px;
+  }
+
+  .col-md-5 {
+    background-color: rgb(192, 192, 192);
+    padding: 40px;
+  }
+
+  .col-md-4 {
+    background-color: rgb(192, 192, 192);
+    padding: 40px;
+  }
+
+.box-2 {
+  background-color: white;
+  padding: 40px;
+}
+
+
+.header {
+    color: rgba(14, 151, 151, 0.87);
+    font-family: serif;
+    font-weight: bold;
+    border: bottom;
+  }
+
+.index {
+  background-color:  rgba(14, 151, 151, 0.87);
+  color: white;
+  padding: 22px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  padding: 10px;
+  line-height: 40px;
+  font-size: large;
+}
+
+.Fig1 {
+  width: 750px;
+  height: auto;
+}
+
+.visualization {
+  width: 250px;
+  height: auto;
+}
+
+.Visualization {
+  width: 323px;
+  height: auto;
+}
+
+.compare {
+  width: 700px;
+  height: auto;
+}
+
+.box-3 {
+  background-color: white;
+  padding: 30px;
+}
+
+.box-4 {
+  background-color: white;
+  padding: 20px;
+}
+
+.box-5 {
+  background-color: white;
+  padding: 20px;
+}
+
+.InDepthFig {
+  width: 1000px;
+  height: auto;
+}
+
+.data {
+  width: 1500px;
+  height: auto;
+}
+
+.dataheader {
+  color: rgba(14, 151, 151, 0.87);
+  font-family: serif;
+  font-weight: bold;
+  padding: 40px;
+}
